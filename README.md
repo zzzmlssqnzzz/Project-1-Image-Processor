@@ -5,3 +5,4 @@ Working with greyscale images, the project performs the following operations on 
 * reading from disk
 * writing to disk
 * compressing and decompressing the image 
+November 2022

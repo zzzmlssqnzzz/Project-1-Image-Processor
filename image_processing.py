@@ -1,7 +1,3 @@
-# Melissa Qian
-# 261120131
-# Assignment 3
-
 MAX_WHITE_VALUE = 255
 
 def is_valid_image(image):
